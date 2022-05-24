@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.navfont {
+  font-family: 'Rowdies', cursive;;
+  font-weight: bold;
+  
+}
+
+.menuItems {
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-weight: bold;
+  font-size: 1.5em;
+  
+}
+
+.menu { 
+  padding: 0;
+  margin-left:20px;
+  margin-right:20px;
+   
+}
+
+.tooltip{
+  top: 0;
+ 
+}
+
+.formAcct {
+  margin-left:20px;
+  font-family: 'Changa', sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.titlefont {
+  padding-top: 40px;
+  font-family: 'Rowdies', cursive;;
+  color: blue;
+  padding-left:20px;
+}
+
+.loginFirst {
+  padding-top: 40px;
+  font-family: 'Rowdies', cursive;;
+  color: blue;
+  padding-left:20px;
+  text-align: center;
+}
