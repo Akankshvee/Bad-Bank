@@ -42,7 +42,7 @@ function App() {
       <Navbar expand="xxl" bg="primary" variant="dark" >
         <Container>
           <LinkContainer to="/">
-            <Navbar.Brand className="navfont"><h2>AmexBankDemo</h2></Navbar.Brand>
+            <Navbar.Brand className="navfont"><h2>BadBank</h2></Navbar.Brand>
           </LinkContainer>
           <Nav className="menuItems d-flex justify-content-end ">
           <LinkContainer to="/">     
@@ -551,8 +551,8 @@ function Account () {
       <div className="card">
         <div className="card-body">
           <blockquote className="blockquote mb-0">
-          <h2>Welcome to the Amex Bank Demo!</h2>
-          <h3>Delighting you everytime with the Best Customer Experience!</h3>
+          <h2>Welcome to the BadBank!</h2>
+          <h3>Start banking with us today and earn the best interest rates.</h3>
             <img src={logo} alt="bank" />
           </blockquote>
         </div>
